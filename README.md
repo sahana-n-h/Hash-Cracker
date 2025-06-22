@@ -32,8 +32,9 @@ A full-stack web application that takes a **SHA-256 hash** as input and tries to
 | Deployment | Render.com        |
 
 
-🙌 Author
-Built by Sahana N H
-For learning full-stack deployment and hashing basics.
+##🙌 Author
+
+- Built by Sahana N H
+- For learning full-stack deployment and hashing basics.
 
 
