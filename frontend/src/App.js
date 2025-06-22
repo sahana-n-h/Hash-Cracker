@@ -7,7 +7,7 @@ function App() {
 
   const handleSubmit = async () => {
     try {
-      const response = await fetch('http://hash-cracker-env.eba-vnmxfujm.us-west-2.elasticbeanstalk.com/api/crack', {
+      const response = await fetch('http://localhost:3003/api/crack', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
@@ -39,7 +39,7 @@ function App() {
       </button>
 
       <div className="result">
-        <strong>Result found :</strong> {result}
+        <strong>Result found :<br></br></strong> {result}
       </div>
     </div>
   );
