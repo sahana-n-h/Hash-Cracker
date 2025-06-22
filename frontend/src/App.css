@@ -1,0 +1,54 @@
+/* App.css */
+
+body {
+  background: linear-gradient(to right, #1f1c2c, #928dab);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+.container {
+  max-width: 600px;
+  margin: 80px auto;
+  padding: 40px;
+  background-color: #2c2f48;
+  border-radius: 16px;
+  box-shadow: 0 12px 20px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+.input-box {
+  width: 90%;
+  padding: 12px 16px;
+  margin-bottom: 20px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+}
+
+.crack-button {
+  padding: 12px 28px;
+  font-size: 16px;
+  border-radius: 8px;
+  background-color: #00b894;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.crack-button:hover {
+  background-color: #019875;
+}
+
+.result {
+  margin-top: 30px;
+  font-size: 18px;
+  color: #f1c40f;
+}
