@@ -7,7 +7,7 @@ function App() {
 
   const handleSubmit = async () => {
     try {
-      const response = await fetch('http://localhost:3003/api/crack', {
+      const response = await fetch('http://https://hash-cracker-backend.onrender.com//api/crack', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
