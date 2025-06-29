@@ -1,6 +1,6 @@
 # 🔐 Hash Cracker Web App
 
-A full-stack web application that takes a **SHA-256 hash** as input and tries to **crack it by comparing it against a pre-defined wordlist**. Built with **React.js** on the frontend and **Node.js/Express** on the backend, deployed for on Render.
+A full-stack web application that takes a **SHA-256 hash** as input and tries to **crack it by comparing it against a pre-defined wordlist**. Built with **React.js** on the frontend and **Node.js/Express** on the backend, deployed for on AWS EB.
 
 ---
 
