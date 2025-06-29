@@ -29,7 +29,7 @@ A full-stack web application that takes a **SHA-256 hash** as input and tries to
 | Frontend   | React.js          |
 | Backend    | Node.js + Express |
 | Hashing    | SHA-256 (crypto module) |
-| Deployment | Render.com        |
+| Deployment | AWS Elastic Beanstalk |        |
 
 
 
